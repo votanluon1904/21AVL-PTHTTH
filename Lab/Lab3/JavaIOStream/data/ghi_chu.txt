@@ -1,0 +1,4 @@
+
+Java I/O làm việc với các luồng dữ liệu.
+BufferedWriter giúp đọc/ghi dữ liệu hiệu quả hơn.
+UTF-8 hỗ trợ tiếng Việt ổn định.
